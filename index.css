@@ -280,9 +280,6 @@ span.input-group-addon i {
     padding: 4px;
 }
 @media screen and (min-width: 280px) and (max-width: 600px){
-    body{
-        overflow-x: hidden;
-    }
     .myyyy h1{
         font-size: 3.5em;
     }
@@ -312,14 +309,8 @@ span.input-group-addon i {
     .tag{
         font-size: 35px;
     }
-    .marq1{
-        display: inline-block;
-    }
-    .marq{
-        display: none;
-    }
     .carousel img{
-        width: 390px;
+        width: 100%;
         height: auto;
     }
 }
