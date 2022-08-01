@@ -339,3 +339,6 @@ span.input-group-addon i {
 .navbar-collapse{
     z-index: 1;
 }
+.myhover .fa-brands:hover{
+    box-shadow: 2px 2px 20px 5px rgb(34, 98, 182);
+}
