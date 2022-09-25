@@ -342,3 +342,11 @@ span.input-group-addon i {
 .myhover .fa-brands:hover{
     box-shadow: 2px 2px 20px 5px rgb(34, 98, 182);
 }
+.box{
+    transition: 0.5s ease-out;
+    cursor: pointer;
+   
+}
+.box:hover{
+    transform: scale(1.1);
+}
